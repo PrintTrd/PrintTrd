@@ -15,12 +15,13 @@
     <img src="https://spark.apache.org/images/numpy.png" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" height="40"/>
     , SQL, Pyspark, Spark SQL
+     , HTML/CSS/JavaScript/PHP
   </p>
 - ⛏️ Tools & Utilities:
   <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.databricks.com/"> <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="40"/></a>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="40"/>
-  <img src="https://www.svgrepo.com/show/366577/application-x-shellscript.svg" height="40"/>
+  , ShellScript, 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> </p>
 - 🕑 Orchestration Tools & Frameworks:
   <p align="left"><a href="https://airflow.apache.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/2560px-AirflowLogo.svg.png" height="40"></a>, Cron jobs, 
