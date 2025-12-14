@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋, I'm Print Thirada </h1>
 
-- 💻 I’m currently working on Data Engineer at KBTG
-- 🌱 I’m currently learning Data & AI Engineering ✨[Google Cloud Skills](https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)
+- 💻 I’m currently working as Data Engineer at KBTG
+- 🌱 I’m currently learning Data & AI Engineering ✨[Google Cloud Skill Badges](https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)
 - 💪🏻 Domain Knowledge:
-   - Banking (e.g. Consent management, Credit score, Mobile banking Project)
+   - Banking (for projects: Consent management, Credit score, Mobile banking)
    - Life Insurance (with broker license since May 2025)
-   - Animation/VFX production (with credits: Nezha 2, Secret Level-The Outer Worlds, Doctor Climax, Hero Inside S1-S2, Expo 2025 Mitsubishi Pavilion-Journey To Life)
+   - Animation/VFX production (with credits: [Nezha 2](https://www.imdb.com/name/nm16972165/), Secret Level-The Outer Worlds, Doctor Climax, Hero Inside S1-S2, Expo 2025 Mitsubishi Pavilion-Journey To Life)
 - 🔗 Tech Stack
    - 💬 Programming & other languages: <p>
    ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
