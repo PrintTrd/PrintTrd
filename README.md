@@ -1,39 +1,45 @@
 <h1 align="center"> Hi there 👋, I'm Print Thirada </h1>
 
 - 💻 I’m currently working on Data Engineer at KBTG
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thirada-theethum/)
 - 🌱 I’m currently learning Data & AI Engineering
 - 💪🏻 Domain Knowledge:
    - Banking (e.g. Consent management, Credit score, Mobile banking Project)
    - Life Insurance (with broker license since May 2025)
    - Media processing
-- 💬 Programming Languages and Library:
-  <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://github.com/slevithan/regex"> <img src="https://cdn.jsdelivr.net/gh/slevithan/regex@6.1.0/media/logo.svg" height="40"/></a>
-    <a href="https://duckdb.org/"> <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo-horizontal.svg" height="40"/></a>
-    <img src="https://spark.apache.org/images/numpy.png" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" height="40"/>
-    , SQL, Pyspark, Spark SQL
-     , HTML/CSS/JavaScript/PHP
-  </p>
-- ⛏️ Tools & Utilities:
-  <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.databricks.com/"> <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" width="40" height="40"/></a>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" height="40"/>
-  , ShellScript, 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> </p>
-- 🕑 Orchestration Tools & Frameworks:
-  <p align="left"><a href="https://airflow.apache.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/2560px-AirflowLogo.svg.png" height="40"></a>, Cron jobs, 
-  <a href="https://spark.apache.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40"/></a>
-  </p>
-- ☁️ Cloud Platforms:
-  <p align="left"> <a href="https://cloud.google.com/"> <img src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-logo.svg" width="40" height="40"/></a> </p>
-- 📊 Visualization Tools:
-  <p align="left"> <a href="https://lookerstudio.google.com/"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/looker-tj29ynkm6d8d8ep7un7d9.png/looker-9pk6hzktapkc9fyd9b0j.png?_a=DATAg1AAZAA0" height="70"/></a> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="40"/> </p>
-- 🫙 Storage and Infrastructure:
-  <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="70"/></a>
-    <img src="https://spark.apache.org/images/mongo.png" height="70"/>, PostgreSQL, MongoDB, phpMyAdmin </p>
-    <img src="https://spark.apache.org/images/delta-lake-logo.png" height="70"/></a>
+- 💻 Tech Stack
+   - 💬 Programming & other languages: <p>
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-acc8e8?style=for-the-badge)
+![R](https://img.shields.io/badge/R-566a82?style=for-the-badge&logo=r&logoColor=white)
+<a href="https://github.com/slevithan/regex"> <img src="https://cdn.jsdelivr.net/gh/slevithan/regex@6.1.0/media/logo.svg" height="28"/></a>
+![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+   </p>
+   
+   - ⛏️ Tools & Utilities: <p>
+     ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+     ![databricks](https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+     ![bash](https://img.shields.io/badge/bash-2e2d2d?style=for-the-badge&logo=gnubash&logoColor=white)
+     ![figma](https://img.shields.io/badge/figma-bf0ab9?style=for-the-badge&logo=figma&logoColor=white)
+       </p>
+   - 🕑 Orchestration Tools & Frameworks: <p>
+     ![apacheairflow](https://img.shields.io/badge/apache%20airflow-3fd4d1?style=for-the-badge&logo=apacheairflow&logoColor=b31e14)
+     ![apachespark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+      </p>
+   - ☁️ Cloud Platforms: <p>
+     ![gcp](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)
+     ![aws](https://img.shields.io/badge/AWS-bf8032?style=for-the-badge)
+      </p>
+   
+   - 📊 Visualization Tools: <p>
+     ![looker](https://img.shields.io/badge/looker%20studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+     <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="28"/>
+     </p>
+   - 🫙 Storage and Infrastructure: <p>
+     ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+     ![postgresql](https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+     ![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+     ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+     </p>
