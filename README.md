@@ -3,8 +3,8 @@
 - 💻 I’m currently working as Data Engineer at KBTG
 - 🌱 I’m currently learning Data & AI Engineering ✨[Google Cloud Skill Badges](https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)
 - 💪🏻 Domain Knowledge:
-   - Banking (for projects: Consent management, Credit score, Mobile banking)
-   - Life Insurance (with broker license since May 2025)
+   - Banking (for source projects: Consent management, Credit score, Mobile banking)
+   - Life Insurance (with Thai life insurance broker license since May 2025)
    - Animation/VFX production (with credits: [Nezha 2](https://www.imdb.com/name/nm16972165/), Secret Level-The Outer Worlds, Doctor Climax, Hero Inside S1-S2, Expo 2025 Mitsubishi Pavilion-Journey To Life)
 - 🔗 Tech Stack
    - 💬 Programming & other languages: <p>
@@ -29,7 +29,8 @@
      ![apachespark](https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
       </p>
    - ☁️ Cloud Platforms: <p>
-     ![gcp](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&link=https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)
+     ![gcp](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+     ![azure](https://img.shields.io/badge/Azure-3c21ed?style=for-the-badge)
      ![aws](https://img.shields.io/badge/AWS-bf8032?style=for-the-badge)
       </p>
    - 📊 Visualization Tools: <p>
