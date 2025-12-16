@@ -11,10 +11,12 @@
    ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![sql](https://img.shields.io/badge/SQL-acc8e8?style=for-the-badge)
    ![R](https://img.shields.io/badge/R-566a82?style=for-the-badge&logo=r&logoColor=white)
+   <a href="https://github.com/slevithan/regex"> <img src="https://cdn.jsdelivr.net/gh/slevithan/regex@6.1.0/media/logo.svg" height="28"/></a>
+   <a href="https://www.java.com/"> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="28"></a><br>
    ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
    ![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
    ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    </p>
 
    - 📚 Frameworks & Library: <p>
@@ -41,8 +43,8 @@
      </p>
    - 🫙 Database: <p>
      ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-     ![postgresql](https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
      ![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+     ![postgresql](https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
      ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
      </p>
    - 📊 Visualization Tools: <p>
@@ -51,10 +53,10 @@
      </p>
   -----
    - 🎨 Image Processing: <p>
-   ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black) OpenColorIO(OCIO), OpenImageIO(OIIO), Image Encoding(Codecs-Profiles) </p>
+   ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black) OpenColorIO(OCIO) | OpenImageIO(OIIO) | Image Encoding(Codecs-Profiles)</p>
    - 🖼️ Digital Content Creation (DCC) apps: <p>
    ![maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
-   ![nuke](https://img.shields.io/badge/Nuke-000000?style=for-the-badge&logo=nuke&logoColor=yellow)
+   ![nuke](https://img.shields.io/badge/Nuke-1c1c1b?style=for-the-badge&logo=nuke&logoColor=yellow)
    ![blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
    ![houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
    </p>
