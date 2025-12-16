@@ -53,10 +53,12 @@
      </p>
   -----
    - 🎨 Image Processing: <p>
-   ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black) OpenColorIO(OCIO) | OpenImageIO(OIIO) | Image Encoding(Codecs-Profiles)</p>
+   ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black) | <img src="https://artwork.aswf.io/projects/opencolorio/horizontal/color/opencolorio-horizontal-color.svg" height="28"/> |
+   <img src="https://artwork.aswf.io/projects/openimageio/horizontal/gradient/openimageio-horizontal-gradient.svg" height="28"/> | Image Encoding(Codecs/Profiles)</p>
+   
    - 🖼️ Digital Content Creation (DCC) apps: <p>
    ![maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
    ![nuke](https://img.shields.io/badge/Nuke-1c1c1b?style=for-the-badge&logo=nuke&logoColor=yellow)
-   ![blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
    ![houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
+   ![blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
    </p>
