@@ -40,7 +40,8 @@
      ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
      ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
      ![bash](https://img.shields.io/badge/bash-2e2d2d?style=for-the-badge&logo=gnubash&logoColor=white)
-     ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+     ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+     ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)<br>
      ![googlesheets](https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
      ![figma](https://img.shields.io/badge/figma-bf0ab9?style=for-the-badge&logo=figma&logoColor=white)
      ![jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -48,10 +49,6 @@
    - 📊 Visualization Tools: <p>
      ![looker](https://img.shields.io/badge/looker%20studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
      <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="28"/>
-     </p>
-   - 📚 Frameworks & Library: <p>
-     ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-     ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
      </p>
   -----
    - 🎨 Image Processing: <p>
