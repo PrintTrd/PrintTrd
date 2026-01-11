@@ -51,7 +51,7 @@
      <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" height="28"/>
      </p>
   -----
-   - 🎨 Image Processing: <p>
+   - 🎨 File Processing: <p>
    ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black) | <img src="https://artwork.aswf.io/projects/opencolorio/horizontal/color/opencolorio-horizontal-color.svg" height="28"/> |
    <img src="https://artwork.aswf.io/projects/openimageio/horizontal/gradient/openimageio-horizontal-gradient.svg" height="28"/> | Image Encoding(Codecs/Profiles)</p>
    
