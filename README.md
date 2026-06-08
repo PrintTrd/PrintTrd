@@ -1,12 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Print Thirada </h1>
 
 - I am the bridge between art and technology.🧑🏻‍🎨💻 
-- Domain Knowledge: 3D Animation & Visual Effect Production [🎞️Showreel](https://vimeo.com/user66270759)
-    - Former Technical Director at The Monk Studio
+- Domain Knowledge:
+    1. 3D Animation & Visual Effect Production [🎞️Showreel](https://vimeo.com/user66270759)
+    - Former Technical Director (Python Tech Support Engineer L1/L3) at The Monk Studio
        - 🎦Featured Screen Credits: [Nezha 2(哪吒2)](https://www.imdb.com/name/nm16972165/), Journey To Life-Mitsubishi Pavilion Expo 2025, Secret Level-The Outer Worlds(S1 E9), Doctor Climax, Hero Inside(S1-S2)
        - Other Non-Credits: Tian Jiang Da Ren(天降大任), Carnival Row (S2), etc.
-    - 3D Resin Printing (Freelance)
-    - 3D Artist & Junior Technical Artist for educational VR (Unity/Unreal Engine) project (Freelance)
+    - 3D Resin Printing & 3D Artist (Freelance)
+    2. Data Engineering
+    - Former Junior Data Engineer & Data Coordinator (Outsource)
 - Skill & Tech Stack
     - 💬 Programming & other languages: <p>
         ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,7 +30,7 @@
     - ⚙️ Pipeline & Automation: <p>
         <a href="https://github.com/slevithan/regex"> <img src="https://cdn.jsdelivr.net/gh/slevithan/regex@6.1.0/media/logo.svg" height="28"/> </a>
         ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-        ![bash](https://img.shields.io/badge/bash-2e2d2d?style=for-the-badge&logo=gnubash&logoColor=white)
+        ![bash](https://img.shields.io/badge/bash-2e2d2d?style=for-the-badge&logo=gnubash&logoColor=white) <br>
         ![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=black)
         <img src="https://artwork.aswf.io/projects/openimageio/horizontal/gradient/openimageio-horizontal-gradient.svg" height="28"/>
         </p>
