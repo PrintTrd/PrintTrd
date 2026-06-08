@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Print Thirada </h1>
 
-- I am the bridge between art and technology.🧑🏻‍🎨💻 
 - Domain Knowledge:
     1. 3D Animation & Visual Effect Production [🎞️Showreel](https://vimeo.com/user66270759)
     - Former Technical Director (Python Tech Support Engineer L1/L3) at The Monk Studio
@@ -12,13 +11,11 @@
 - Skill & Tech Stack
     - 💬 Programming & other languages: <p>
         ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![sql](https://img.shields.io/badge/SQL-acc8e8?style=for-the-badge)</p> <p>Familiar:        
-        ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+        ![sql](https://img.shields.io/badge/SQL-acc8e8?style=for-the-badge)</p><p>Familiar: ![html5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
         ![css](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
         ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-        ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+        ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
         <a href="https://www.java.com/"> <img src="https://icon.icepanel.io/Technology/svg/Java.svg" height="28"></a>
-        ![R](https://img.shields.io/badge/R-566a82?style=for-the-badge&logo=r&logoColor=white)
         </p>
     - 🫙 Database: <p>
         ![postgresql](https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,12 +43,14 @@
         ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
         ![looker](https://img.shields.io/badge/looker%20studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)<br>
         </p>
+    - ☁️ Cloud Platforms:<p>
+        ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) [Google Cloud Skill Badges✨](https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b) <br>
+        <br>Familiar: ![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei)
+        ![AWS](https://img.shields.io/badge/AWS-bf8032?style=for-the-badge)
+        </p>
     - 🖼️ Digital Content Creation (DCC) apps: <p>
         ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
         ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+        ![Nuke](https://img.shields.io/badge/Nuke-FFC20E?style=for-the-badge&logo=nuke&logoColor=black)
         ![houdini](https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white)
-        </p>
-    - ☁️ Cloud Platforms: [Google Cloud Skill Badges✨](https://www.skills.google/public_profiles/5c1731a4-6376-4594-9c46-a25e29eee26b)<p>
-        ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-        ![AWS](https://img.shields.io/badge/AWS-bf8032?style=for-the-badge)
         </p>
